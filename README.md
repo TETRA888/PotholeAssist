@@ -1,5 +1,6 @@
 #  <div align = "center">` Pot Hole Assist `</div>
 
+<img width="1024" height="367" alt="image" src="https://github.com/user-attachments/assets/69fa6263-2996-4fdd-80a7-f9534bf035f5" />
 
 ![Static Badge](https://img.shields.io/badge/License-GPL%203.0-brightgreen)
 ![Static Badge](https://img.shields.io/badge/Language-C++-blue)
