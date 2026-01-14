@@ -17,9 +17,11 @@
 
 - **Drew**
   - Print an April tag and run the esp32 to determine the angle of the steering wheel based on the marker angle
+  - Determine the pothole location in the digital world by getting the segmentation point and then casting rays and determining the intersection
+  - Output the intersection as an XY area 
   
 - **Asad**
-  - Write the algorithm to find a trajectory that avoids the pothole 
+  - Write the algorithm to find a trajectory that avoids the pothole or the XY area that Drew will calculate
 
 ![Static Badge](https://img.shields.io/badge/License-GPL%203.0-brightgreen)
 ![Static Badge](https://img.shields.io/badge/Language-C++-blue)
