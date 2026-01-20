@@ -7,6 +7,7 @@ Pothole Assist Description
 </div>
 <div align="center">Figure 1.0 (Main Project Image)</div>
 
+## Project Sponsors
 <img width="456" height="125" alt="image" src="https://github.com/user-attachments/assets/fbcfe868-50df-40f2-8ed9-27f8d5ba6e42" />
 <img width="525" height="225" alt="image" src="https://github.com/user-attachments/assets/5ae0bcf4-5f54-4821-91a8-8cc3289b4472" />
 
