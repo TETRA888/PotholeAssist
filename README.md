@@ -124,7 +124,7 @@ Outline the hardware components and their relationships:
 - [<img src="https://avatars.githubusercontent.com/u/51662710?v=4&size=64" width="60px;"/><br /><sub><a href="https://github.com/USERNAME">Asad Melibaev</a></sub>](https://github.com/USERNAME)
 
 - [<img src="https://avatars.githubusercontent.com/u/168310726?v=4" width="60px;"/><br /><sub><a href="https://github.com/USERNAME">Enoch Shen</a></sub>](https://github.com/USERNAME)
-- 
+
 - [<img src="https://avatars.githubusercontent.com/u/179544213?v=4" width="60px;"/><br /><sub><a href="https://github.com/USERNAME">Drew Hering</a></sub>](https://github.com/USERNAME)
 
 - [<img src="https://avatars.githubusercontent.com/u/253607177?v=4" width="60px;"/><br /><sub><a href="https://github.com/USERNAME">Lev Oleynik</a></sub>](https://github.com/USERNAME)
