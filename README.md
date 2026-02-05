@@ -3,7 +3,7 @@
 Pothole Assist Description
 
 <div align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="project overview" width="550">
+  <img src="https://github.com/TETRA888/PotholeAssist/blob/main/Images/potholeassistthumbnail.png" alt="project overview" width="550">
 </div>
 <div align="center">Figure 1.0 (Main Project Image)</div>
 
