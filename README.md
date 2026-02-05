@@ -30,7 +30,7 @@ Modern vehicles are equipped with complex driver assistance systems, however the
 * Vision: Our goal is to create a hardware-integrated solution that standardizes road-surface detection in the automotive industry.
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="context image" width="500">
+  <img src="https://github.com/TETRA888/PotholeAssist/blob/main/Images/20260119_165446.jpg" alt="context image" width="500">
 </p>
 <div align="center">Figure 2.0 (Context or Application)</div>
 
