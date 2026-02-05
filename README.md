@@ -24,7 +24,7 @@ Pothole Assist Description
 
 ## Purpose
 
-Explain the core purpose of your project. Include:
+Modern vehicles are equipped with complex driver assistance systems, however they are often blind to the immediate condition of the road surface itself. PotholeAssist aims to bridge this gap by transforming vehicle awareness from obstacle avoidance to road-surface detection and avoidance.
 * The problem you're solving
 * Who benefits from this solution
 * Key applications or use cases
