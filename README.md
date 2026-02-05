@@ -86,7 +86,7 @@ Describe the software design and structure:
  <img src="YOUR_DIAGRAM_URL" alt="architecture diagram" width="40%">
  <img src="YOUR_UI_URL" alt="user interface" width="40%">
 </p>
-<div align="center">Figure 3.0 (Software Architecture/Interface)</div>
+<div align="center">Figure 3.0 (Software Architecture/Interface TBD)</div>
 
 ## Hardware Design
 
@@ -101,7 +101,7 @@ Outline the hardware components and their relationships:
   <img src="YOUR_SCHEMATIC_URL" alt="system diagram" width="40%">
   <img src="YOUR_SCHEMATIC_URL" alt="detailed schematic" width="40%">
 </p>
-<div align="center">Figure 4.0 (System Design Overview)</div>
+<div align="center">Figure 4.0 (System Design Overview TBD)</div>
 
 ## System Components
 
@@ -116,21 +116,21 @@ Outline the hardware components and their relationships:
 <p align="center">
   <img src="YOUR_IMAGE_URL" alt="assembled system" width="70%">
 </p>
-<div align="center">Figure 5.0 (Physical Assembly)</div>
+<div align="center">Figure 5.0 (Physical Assembly TBD)</div>
 
 ## Core Team
 
-- [<img src="https://avatars.githubusercontent.com/u/51662710?v=4&size=64" width="60px;"/><br /><sub><a href="https://github.com/USERNAME">Asad Melibaev</a></sub>](https://github.com/USERNAME)
+- [<img src="https://avatars.githubusercontent.com/u/51662710?v=4&size=64" width="60px;"/><br /><sub><a href="https://github.com/TETRA888">Asad Melibaev</a></sub>](https://github.com/TETRA888)
 
-- [<img src="https://avatars.githubusercontent.com/u/168310726?v=4" width="60px;"/><br /><sub><a href="https://github.com/USERNAME">Enoch Shen</a></sub>](https://github.com/USERNAME)
+- [<img src="https://avatars.githubusercontent.com/u/168310726?v=4" width="60px;"/><br /><sub><a href="https://github.com/Enoch-Shen">Enoch Shen</a></sub>](https://github.com/Enoch-Shen)
 
-- [<img src="https://avatars.githubusercontent.com/u/179544213?v=4" width="60px;"/><br /><sub><a href="https://github.com/USERNAME">Drew Hering</a></sub>](https://github.com/USERNAME)
+- [<img src="https://avatars.githubusercontent.com/u/179544213?v=4" width="60px;"/><br /><sub><a href="https://github.com/drewhering">Drew Hering</a></sub>](https://github.com/drewhering)
 
-- [<img src="https://avatars.githubusercontent.com/u/253607177?v=4" width="60px;"/><br /><sub><a href="https://github.com/USERNAME">Lev Oleynik</a></sub>](https://github.com/USERNAME)
+- [<img src="https://avatars.githubusercontent.com/u/253607177?v=4" width="60px;"/><br /><sub><a href="https://github.com/oleyniklev">Lev Oleynik</a></sub>](https://github.com/oleyniklev)
 
 ## Documentation
 
-1. [Wiki](https://github.com/USERNAME/REPOSITORY/wiki)
+1. [Wiki](https://github.com/TETRA888/PotholeAssist/wiki)
 2. [API Documentation](link-to-docs)
 3. [User Guide](link-to-guide)
 4. [Contributing Guidelines](CONTRIBUTING.md)
@@ -160,4 +160,4 @@ This project is licensed under the [LICENSE NAME] - see the [LICENSE](LICENSE) f
 For questions, suggestions, or issues:
 * Open an issue on GitHub
 * Email: contact@example.com
-* Project Link: [https://github.com/USERNAME/REPOSITORY](https://github.com/USERNAME/REPOSITORY)
+* Project Link: [https://github.com/TETRA888/PotholeAssist](https://github.com/TETRA888/PotholeAssist)
