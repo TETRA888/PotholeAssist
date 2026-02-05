@@ -74,10 +74,10 @@ config = {
 * Link to parts list or bill of materials
 * Reference detailed setup instructions
 
-## Software Architecture
+## Software Architecture (TBD)
 
-Describe the software design and structure:
-* Programming languages used
+The software design and structure:
+* Programming languages used: Python
 * Key features and capabilities
 * Architecture patterns
 * Main modules or components
@@ -90,10 +90,16 @@ Describe the software design and structure:
 
 ## Hardware Design
 
-Outline the hardware components and their relationships:
-* Major hardware components
-* Controllers and processors
-* Sensors and actuators
+The Pothole Assist system is built on a high-performance edge computing architecture desgined to bridge the gap between computer vision and real-time vehicle operations:
+* Major Hardware Components
+  * NVIDIA Jetson Nano: (Primary compute node)
+  * IMX219-160 Camera
+  * LCD Display 7IP-Cap
+* Controllers and Processors
+  * Main Processor: NVIDIA Jetson Nano for accelerated YOLOv11N segmentation
+* Sensors and Actuators
+  * GY-521 IMU
+  * ELM327 OBD-II
 * Power systems
 * Communication protocols
 
