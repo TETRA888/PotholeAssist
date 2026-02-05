@@ -1,11 +1,11 @@
 #  <div align = "center">` Pot Hole Assist `</div> ![Static Badge](https://img.shields.io/badge/License-GPL%203.0-brightgreen) ![Static Badge](https://img.shields.io/badge/Language-C++-blue) ![Static Badge](https://img.shields.io/badge/Nvidia-Jetson-Nano%2C%20green) ![Static Badge](https://img.shields.io/badge/Language-Python-red) ![Static Badge](https://img.shields.io/badge/Tech-160FOV%20Camera-purple) ![Static Badge](https://img.shields.io/badge/Model-YOLOV11N-blue) 
 
-Pothole Assist Description
+Pothole Assist
 
 <div align="center">
   <img src="https://github.com/TETRA888/PotholeAssist/blob/main/Images/potholeassistthumbnail.png" alt="project overview" width="550">
 </div>
-<div align="center">Figure 1.0 (Main Project Image)</div>
+<div align="center">Figure 1.0 (Steering Assist Display on HUD)</div>
 
 ## Project Sponsors
 <img width="456" height="125" alt="image" src="https://github.com/user-attachments/assets/fbcfe868-50df-40f2-8ed9-27f8d5ba6e42" />
