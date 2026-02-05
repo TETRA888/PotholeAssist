@@ -25,10 +25,9 @@ Pothole Assist Description
 ## Purpose
 
 Modern vehicles are equipped with complex driver assistance systems, however they are often blind to the immediate condition of the road surface itself. PotholeAssist aims to bridge this gap by transforming vehicle awareness from obstacle avoidance to road-surface detection and avoidance.
-* The problem you're solving
-* Who benefits from this solution
-* Key applications or use cases
-* The ultimate goal or vision
+* Problem: General Advanced Driver Assistance Systems (ADAS) are designed for large objects like cars and people but often fail to detect smaller hazards like potholes. This road damage can cause billions in annual vehicle damage and can lead to dangerous swerving maneuvers.
+* Key Applications: Utilizing localized AI on hardware like the NVIDIA Jetson Nano to ensure hazards are detected and processed instantly. Projecting "ideal avoidance paths" onto a Head-Up Display (HUD) to guide drivers safely around hazards. 
+* Vision: Our goal is to create a hardware-integrated solution that standardizes road-surface detection in the automotive industry.
 
 <p align="center">
   <img src="YOUR_IMAGE_URL_HERE" alt="context image" width="500">
