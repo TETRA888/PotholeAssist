@@ -83,7 +83,7 @@ The software design and structure:
 * Main modules or components
 
 <p align="center">
- <img src="YOUR_DIAGRAM_URL" alt="architecture diagram" width="40%">
+ <img src="https://postimg.cc/jC31vsNT" alt="Pothole Assist System Architecture Diagram" width="40%">
  <img src="YOUR_UI_URL" alt="user interface" width="40%">
 </p>
 <div align="center">Figure 3.0 (Software Architecture/Interface TBD)</div>
