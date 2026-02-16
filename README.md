@@ -82,11 +82,13 @@ The software design and structure:
 * Architecture patterns
 * Main modules or components
 
+<div align="center">
+  <img src="https://github.com/TETRA888/PotholeAssist/blob/main/Figure%204.0_%20Pothole%20Assist%20System%20Architecture.drawio%20(2).png" alt="project overview" width="550">
+</div>
+<div align="center">Figure 1.0 (Steering Assist Display on HUD)</div>
 <p align="center">
- <img src="https://postimg.cc/jC31vsNT" alt="Pothole Assist System Architecture Diagram" width="40%">
  <img src="YOUR_UI_URL" alt="user interface" width="40%">
 </p>
-<div align="center">Figure 3.0 (Software Architecture/Interface TBD)</div>
 
 ## Hardware Design
 
