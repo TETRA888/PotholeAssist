@@ -83,7 +83,7 @@ The software design and structure:
 * Main modules or components
 
 <div align="center">
-  <img src="https://github.com/TETRA888/PotholeAssist/blob/main/Figure%204.0_%20Pothole%20Assist%20System%20Architecture.drawio%20(2).png" alt="project overview" width="550">
+  <img src="YOUR_UI_URL" alt="project overview" width="550">
 </div>
 <div align="center">Figure 1.0 (Steering Assist Display on HUD)</div>
 <p align="center">
@@ -106,7 +106,7 @@ The Pothole Assist system is built on a high-performance edge computing architec
 * Communication protocols
 
 <p align="center">
-  <img src="YOUR_SCHEMATIC_URL" alt="system diagram" width="40%">
+  <img src="https://github.com/TETRA888/PotholeAssist/blob/main/Figure%204.0_%20Pothole%20Assist%20System%20Architecture.drawio%20(2).png" alt="system diagram" width="40%">
   <img src="YOUR_SCHEMATIC_URL" alt="detailed schematic" width="40%">
 </p>
 <div align="center">Figure 4.0 (System Design Overview TBD)</div>
