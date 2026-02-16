@@ -106,7 +106,7 @@ The Pothole Assist system is built on a high-performance edge computing architec
 * Communication protocols
 
 <p align="center">
-  <img src="https://github.com/TETRA888/PotholeAssist/blob/main/Figure%204.0_%20Pothole%20Assist%20System%20Architecture.drawio%20(2).png?raw=true" alt="System Architecture Diagram" width="85%">
+  <img src="https://github.com/TETRA888/PotholeAssist/blob/main/Images/Figure%204.0_%20Pothole%20Assist%20System%20Architecture.drawio%20(3).png" alt="System Architecture Diagram" width="85%">
 </p>
 <div align="center">Figure 4.0: System Design Overview</div>
 
