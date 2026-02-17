@@ -110,6 +110,13 @@ The Pothole Assist system is built on a high-performance edge computing architec
 </p>
 <div align="center">Figure 4.0: System Design Overview</div>
 
+
+<p align="center">
+ <img src="https://github.com/TETRA888/PotholeAssist/blob/main/Images/Gemini_Generated_Image_l3fz3bl3fz3bl3fz.png" width="40%">
+</p>
+<div align="center">Figure 5.0: Hardware Layout Visual Overview</div>
+
+
 ## System Components
 
 ### Component Category 1
