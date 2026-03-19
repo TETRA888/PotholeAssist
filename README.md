@@ -167,11 +167,11 @@ Outline planned improvements and features:
 
 ## License
 
-This project is licensed under the [LICENSE NAME] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the License of BMW. No work may be shared without authorization
 
 ## Contact
 
 For questions, suggestions, or issues:
 * Open an issue on GitHub
-* Email: contact@example.com
+* Email: loleynik@ucdavis.edu
 * Project Link: [https://github.com/TETRA888/PotholeAssist](https://github.com/TETRA888/PotholeAssist)
